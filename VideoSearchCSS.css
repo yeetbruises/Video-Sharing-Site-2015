@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.De {
+	}
+#VideoContainer {
+	
+	}
+.VideoInfoContainer {
+	background-color: white;
+	margin-top: 3%;
+	height: 100px;
+	width: 90%;
+	}
+.VideoInfoContainer a {
+	text-decoration: none;
+	}

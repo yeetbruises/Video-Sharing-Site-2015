@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+#VideoContainer, .NavBar {
+	
+	}
+body {
+    background: url("https://pixabay.com/static/uploads/photo/2014/07/31/23/10/biker-407123_960_720.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+	  }
+ul li a {
+	color: white;
+	text-decoration: none;
+		}
+li a h2 {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	}
+ul li {
+	display: inline;
+	padding-left: 70px;
+	}
+ul {
+	list-style-type: none;
+	margin: 0;
+    padding-top: 0px;
+	}
+#abvs {
+	
+	}
+button {
+	-webkit-border-radius: 6;
+  	-moz-border-radius: 6;
+  	border-radius: 6px;
+  	font-family: Arial;
+	height: 40px;
+	width: 90px;
+	background-color: transparent;
+	}
+button:active {
+	background: rgba(76,76,76,1);
+    background: -moz-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 0%, rgba(43,43,43,1) 9%, rgba(102,102,102,1) 52%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 0%, rgba(43,43,43,1) 9%, rgba(102,102,102,1) 52%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+    background: -webkit-gradient(linear, 0 0, 100% 0, from(rgba(76,76,76,1)), color-stop(0, rgba(43,43,43,1)), color-stop(0.09, rgba(43,43,43,1)), color-stop(0.52, rgba(102,102,102,1)), color-stop(0.91, rgba(28,28,28,1)), to(rgba(19,19,19,1)));
+    background: -o-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 0%, rgba(43,43,43,1) 9%, rgba(102,102,102,1) 52%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+    background: linear-gradient(left, rgba(76,76,76,1) 0%, rgba(43,43,43,1) 0%, rgba(43,43,43,1) 9%, rgba(102,102,102,1) 52%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );
+	}
+li {
+	list-style-type: none;
+	}
+.BorderBottom button {
+	display: none;
+	}
+h1 {
+	border-bottom-color: transparent;
+	}
